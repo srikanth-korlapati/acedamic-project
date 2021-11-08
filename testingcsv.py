@@ -2,7 +2,7 @@
 from csv import writer
 
 # List
-List=[6,'William',5532,1,'UAE']
+# List=[6,'William',5532,1,'UAE']
 
 # Open our existing CSV file in append mode
 # Create a file object for this file
